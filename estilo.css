@@ -1,0 +1,36 @@
+#central{
+margin-right: 24%;
+margin-left: 24%;
+width: 51%;
+height: 1050px;
+background-color: black;
+	}
+.titulo {
+	text-align: center;
+}
+#foto{
+	border-radius: 50%;
+	text-align: center;
+}
+#información {
+	color: white;
+	background-color: #009DDC;
+	width: 198px;
+	float:left;
+	height: 1083px;
+	padding: 50px;
+
+}
+#trabajo {
+	background-color: white;
+	width: 591px;
+	float:right;
+	padding: 40px;
+	color: #5E5959;
+}
+.titulos{
+	color:#009DDC;
+}
+.negrita {
+	font-weight: bold;
+}
